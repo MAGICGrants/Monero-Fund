@@ -16,7 +16,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSe0IRA4jM2R6AwJFZ2Cd8_KDHgbxzI5gIif2fbw
 * Open date: TBD
 * Due date: TBD
 
-You may alternatively apply by submitting answers to the form questions by email to info@magicgrants.org:
+You may alternatively submit nominations by email to info@magicgrants.org that address the following:
 * Are you nominating yourself or nominating another person?
     * Nominating myself
     * Nominating another person
