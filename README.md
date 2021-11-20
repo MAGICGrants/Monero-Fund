@@ -11,7 +11,15 @@ https://github.com/MAGICGrants/Monero-Fund/issues/new?assignees=&labels=&templat
 
 ## Apply to be a Fund voter
 
-https://cryptpad.sethforprivacy.com/form/#/2/form/view/Q1XRjesmnF6MAkOeJDzv4C2DiC6eZ5Rqu+0mjQsiwwk/
+https://docs.google.com/forms/d/e/1FAIpQLSe0IRA4jM2R6AwJFZ2Cd8_KDHgbxzI5gIif2fbw0CejMUTZVA/viewform
 
 * Open date: TBD
 * Due date: TBD
+
+You may alternatively apply by submitting answers to the form questions by email to info@magicgrants.org:
+* Are you nominating yourself or nominating another person?
+    * Nominating myself
+    * Nominating another person
+* What is the nominee's name or pseudonym?
+* What is the nominee's email address?
+* Why should this person be a MAGIC Monero Fund voter?
