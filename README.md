@@ -23,3 +23,4 @@ You may alternatively apply by submitting answers to the form questions by email
 * What is the nominee's name or pseudonym?
 * What is the nominee's email address?
 * Why should this person be a MAGIC Monero Fund voter?
+* Confirm you are okay with your name/pseudonym as a voter being made public.
