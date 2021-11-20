@@ -6,6 +6,8 @@ https://magicgrants.org/funds/monero
 
 https://github.com/MAGICGrants/Monero-Fund/issues/new?assignees=&labels=&template=committee-application.md&title=Candidate%3A+%5BName%2FPseudonym%5D+for+MAGIC+Monero+Fund
 
+See existing applicants: https://github.com/MAGICGrants/Monero-Fund/issues
+
 * Open date: TBD
 * Due date: TBD
 
