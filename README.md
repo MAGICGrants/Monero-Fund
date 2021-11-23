@@ -4,7 +4,7 @@ https://magicgrants.org/funds/monero
 
 ## Apply to be a Fund committee member
 
-https://github.com/MAGICGrants/Monero-Fund/issues/new?assignees=&labels=&template=committee-application.md&title=Candidate%3A+%5BName%2FPseudonym%5D+for+MAGIC+Monero+Fund
+Apply: https://github.com/MAGICGrants/Monero-Fund/issues/new?assignees=&labels=&template=committee-application.md&title=Candidate%3A+%5BName%2FPseudonym%5D+for+MAGIC+Monero+Fund
 
 See existing applicants: https://github.com/MAGICGrants/Monero-Fund/issues
 
@@ -13,7 +13,7 @@ See existing applicants: https://github.com/MAGICGrants/Monero-Fund/issues
 
 ## Apply to be a Fund voter
 
-https://docs.google.com/forms/d/e/1FAIpQLSe0IRA4jM2R6AwJFZ2Cd8_KDHgbxzI5gIif2fbw0CejMUTZVA/viewform
+Apply: https://docs.google.com/forms/d/e/1FAIpQLSe0IRA4jM2R6AwJFZ2Cd8_KDHgbxzI5gIif2fbw0CejMUTZVA/viewform
 
 * Open date: TBD
 * Due date: TBD
