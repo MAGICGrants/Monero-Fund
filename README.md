@@ -28,3 +28,7 @@ You may alternatively submit nominations by email to info@magicgrants.org that a
 * Why should this person be a MAGIC Monero Fund voter?
 * The nominee's name/pseudonym will be made public if selected. Please confirm you are okay with this.
     * Note: If you are nominating another person, they must accept the nomination. We will confirm they wish for their name/pseudonym to appear publicly. We will not share their name/pseudonym publicly without their permission. The email will not be made public.
+
+## Voting process for existing voters
+
+https://magicgrants.org/funds/voting/
