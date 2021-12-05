@@ -10,7 +10,7 @@ assignees: ''
 - [ ] I have read and understand the [MAGIC Monero Fund documents](https://magicgrants.org/funds/monero/).
 - [ ] I have read and understand the relevant [MAGIC Grants policies](https://magicgrants.org/about/documentation/).
 - [ ] I understand that should I be in a position to receive funds from MAGIC Grants for any reason, I will need to provide identifying information to the organization privately. Election to a committee does not guarantee compensation even if compensation is made available, since MAGIC Grants has legal limitations on how it can disburse funds.
-- [ ] I understand that an active committee is the #1 factor in a Fund's success.
+- [ ] I understand that an active committee is the number one factor in a Fund's success.
 - [ ] I am at least 18 years old.
 
 
