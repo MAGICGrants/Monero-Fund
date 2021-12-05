@@ -11,6 +11,8 @@ See existing applicants: https://github.com/MAGICGrants/Monero-Fund/issues
 * Open date: 4 December 2021
 * Due date: 30 December 2021
 
+Committee member expectations: https://magicgrants.org/funds/
+
 ## Apply to be a Fund voter
 
 Apply: https://docs.google.com/forms/d/e/1FAIpQLSe0IRA4jM2R6AwJFZ2Cd8_KDHgbxzI5gIif2fbw0CejMUTZVA/viewform
