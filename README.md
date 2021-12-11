@@ -11,7 +11,7 @@ See existing applicants: https://github.com/MAGICGrants/Monero-Fund/issues
 * Open date: 4 December 2021
 * Due date: 30 December 2021
 
-Committee member expectations: https://magicgrants.org/funds/
+Committee member expectations: https://magicgrants.org/funds/committee_expectations/
 
 ## Apply to be a Fund voter
 
@@ -30,6 +30,8 @@ You may alternatively submit nominations by email to info@magicgrants.org that a
 * Why should this person be a MAGIC Monero Fund voter?
 * The nominee's name/pseudonym will be made public if selected. Please confirm you are okay with this.
     * Note: If you are nominating another person, they must accept the nomination. We will confirm they wish for their name/pseudonym to appear publicly. We will not share their name/pseudonym publicly without their permission. The email will not be made public.
+
+Voter expectations: https://magicgrants.org/funds/voter_expectations/
 
 ## Voting process for existing voters
 
