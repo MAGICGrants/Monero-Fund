@@ -7,6 +7,8 @@ assignees: ''
 
 ---
 
+### To submit an application using this template, click [here](https://github.com/MAGICGrants/Monero-Fund/issues/new?assignees=&labels=&template=grant-application.md&title=[Grant+Title]) when logged in from a GitHub account.
+
 For applications requesting greater discretion, please email MoneroFund@magicgrants.org with your submission yet note partial, and eventual full, disclosure of the your work (not your identity) will still occur.
 
 # Candidate Background
