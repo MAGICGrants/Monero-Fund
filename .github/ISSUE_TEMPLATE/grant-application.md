@@ -21,7 +21,7 @@ Describe your project and what makes it beneficial to Monero.
 
 Detail how you plan to accomplish your goals, along with how the grant money will be applied to your work.
 
-# Milestones
+# Milestones and Budget
 
 Set firm targets for your work to accomplish and state the amount of funding expected at each step. Each milestone accomplished should be partnered with a report/summary of your completed work. Milestones may not have explicit results, instead allowing for hours of work to be used (which may be especially notable for research grants), yet such milestones are expected to have much more detailed documentation upon their submission accordingly.
 
