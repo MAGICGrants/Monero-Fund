@@ -24,7 +24,7 @@ Applicants must submit the title, abstract (summary), requested funding amount, 
 
 The actual research plan can be submitted publicly [as an attachment](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/attaching-files) to the GitHub issue or privately to just the committee by sending an email to MoneroFund@magicgrants.org . The plan should be 3-5 pages (not counting citations, any images, and biographical sketch) and include the following:  
 
-*   The research question you seek to answer, and how the Monero Projects benefits from the research.  
+*   The research question you seek to answer, and how the Monero Project benefits from the research.  
     
 *   A literature review of existing work and how your proposal improves upon it.  
     
