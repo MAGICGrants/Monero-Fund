@@ -12,8 +12,6 @@ MAGIC (Multidisciplinary Academic Grants in Cryptocurrencies) Grants is a 501(c)
 
 ### Committee Members
 
-* Vik Sharma is the owner of [Cake Wallet](https://cakewallet.com/) and Monero.com. He is also the president of Liberty Steel USA.
-
 * [Rucknium](https://github.com/Rucknium) is a Monero Research Lab researcher and economist who has focused on statistical obfuscation on Monero and Bitcoin Cash.
 
 * [kayabaNerve](https://github.com/kayabaNerve) is a Monero-ecosystem developer and security  researcher who was the first to implement Monero atomic swaps with ASMR.
