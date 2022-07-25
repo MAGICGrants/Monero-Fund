@@ -20,7 +20,7 @@ The MAGIC Monero Fund accepts applications on a rolling basis. Applications will
 
 ## Proposal Format  
 
-Applicants must submit the title, abstract (summary), requested funding amount, and expected completion time as a public GitHub issue [here](https://github.com/MAGICGrants/Monero-Fund/edit/main/.github/ISSUE_TEMPLATE/grant-application.md). Applicants are free to use their legal name or a pseudonym at this step, although note the "Eligibility" section below.  
+Applicants must submit the title, abstract (summary), requested funding amount, and expected completion time as a public GitHub issue [here](https://github.com/MAGICGrants/Monero-Fund/issues/new?assignees=&labels=&template=grant-application.md&title=[Grant+Title]). Applicants are free to use their legal name or a pseudonym at this step, although note the "Eligibility" section below.  
 
 The actual research plan can be submitted publicly [as an attachment](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/attaching-files) to the GitHub issue or privately to just the committee by sending an email to MoneroFund@magicgrants.org . The plan should be 3-5 pages (not counting citations, any images, and biographical sketch) and include the following:  
 
