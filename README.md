@@ -20,6 +20,8 @@ MAGIC (Multidisciplinary Academic Grants in Cryptocurrencies) Grants is a 501(c)
 
 * [Csilla Brimer](https://twitter.com/CryptoTweetie) is a blockchain consultant at Willenrimer and a co-founder of the Open Economy Initiative. She co-planned the 2021 Monero Party.
 
+* [monerobull](https://twitter.com/monerobull) is a distributor of marketing materials for Monero Outreach and moderates various communication channels of the Monero community.
+
 ## Submitting grant applications
 
 The MAGIC Monero Fund is currently accepting applications for grants involving research. Processes for other types of grants will be established soon. The process for submitting a research grant is described [here](https://github.com/MAGICGrants/Monero-Fund/blob/main/Research-Grant-RFP.md).
