@@ -14,13 +14,13 @@ MAGIC (Multidisciplinary Academic Grants in Cryptocurrencies) Grants is a 501(c)
 
 * [Rucknium](https://github.com/Rucknium) is a Monero Research Lab researcher and economist who has focused on statistical obfuscation on Monero and Bitcoin Cash.
 
-* [kayabaNerve](https://github.com/kayabaNerve) is a Monero-ecosystem developer and security  researcher who was the first to implement Monero atomic swaps with ASMR.
-
-* [Deverick](https://github.com/hashes4merkle) is an application security developer for Blackbaud, a leading nonprofit cloud services platform. He co-planned the 2021 Monero Party.
-
-* [Csilla Brimer](https://twitter.com/CryptoTweetie) is a blockchain consultant at Willenrimer and a co-founder of the Open Economy Initiative. She co-planned the 2021 Monero Party.
+* [kayabaNerve](https://github.com/kayabaNerve) is a Monero-ecosystem developer and security researcher who was the first to implement Monero atomic swaps with ASMR.
 
 * [monerobull](https://twitter.com/monerobull) is a distributor of marketing materials for Monero Outreach and moderates various communication channels of the Monero community.
+
+* [Majestic Bank](https://github.com/MajesticBank)
+
+* [artlimber](https://github.com/artlimber)
 
 ## Submitting grant applications
 
