@@ -20,7 +20,7 @@ MAGIC (Multidisciplinary Academic Grants in Cryptocurrencies) Grants is a 501(c)
 
 * [artlimber](https://github.com/artlimber) is a Monero user and community supporter who believes privacy is a human right.
 
-* [kowalabearhugs](https://twitter.com/kowalabearhugs) is a Monero community member, photographer, artist, seasonal farmer, and offseason wanderer.
+* [kowalabearhugs](https://github.com/kowalabearhugs) is a Monero community member and creative technologist.
   
 ## Submitting grant applications
 
