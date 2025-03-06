@@ -12,15 +12,12 @@ MAGIC (Multidisciplinary Academic Grants in Cryptocurrencies) Grants is a 501(c)
 
 ### Committee Members
 
-* [Rucknium](https://github.com/Rucknium) is a Monero Research Lab researcher and economist who has focused on statistical obfuscation on Monero and Bitcoin Cash.
-
-* [Tacolopo](https://github.com/tacolopo) is a Rust developer, compliance engineer, and Monero user.
-
-* [monerobull](https://twitter.com/monerobull) is a distributor of marketing materials for Monero Outreach and moderates various communication channels of the Monero community.
-
-* [artlimber](https://github.com/artlimber) is a Monero user and community supporter who believes privacy is a human right.
-
+* ack-j
 * [kowalabearhugs](https://github.com/kowalabearhugs) is a Monero community member and creative technologist.
+* rottenwheel
+* [Tacolopo](https://github.com/tacolopo) is a Rust developer, compliance engineer, and Monero user.
+* XMRfamily
+
   
 ## Submitting grant applications
 
