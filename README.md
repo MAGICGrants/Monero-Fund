@@ -14,7 +14,7 @@ MAGIC (Multidisciplinary Academic Grants in Cryptocurrencies) Grants is a 501(c)
 
 * [Rucknium](https://github.com/Rucknium) is a Monero Research Lab researcher and economist who has focused on statistical obfuscation on Monero and Bitcoin Cash.
 
-* [kayabaNerve](https://twitter.com/kayabaNerve) is a Monero-ecosystem developer and security researcher who was the first to implement Monero atomic swaps with ASMR.
+* [Tacolopo](https://github.com/tacolopo) is a Rust developer, compliance engineer, and Monero user.
 
 * [monerobull](https://twitter.com/monerobull) is a distributor of marketing materials for Monero Outreach and moderates various communication channels of the Monero community.
 
