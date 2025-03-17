@@ -15,8 +15,9 @@ MAGIC Grants is a 501(c)(3) U.S. nonprofit that focuses on building strong crypt
 * ack-j
 * [kowalabearhugs](https://github.com/kowalabearhugs) is a Monero community member and creative technologist.
 * rottenwheel
-* [Tacolopo](https://github.com/tacolopo) is a Rust developer, compliance engineer, and Monero user.
 * XMRfamily
+* Open Seat: To be filled via special election
+
 
   
 ## Submitting grant applications
